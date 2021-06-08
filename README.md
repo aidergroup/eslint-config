@@ -1,4 +1,4 @@
-# @eslint-config-aider
+# @aider/eslint-config-aider
 
 [![publish](https://github.com/aidergroup/eslint-config-aider/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/aidergroup/eslint-config-aider/actions/workflows/npm-publish.yml)
 
